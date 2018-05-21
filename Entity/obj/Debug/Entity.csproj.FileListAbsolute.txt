@@ -1,0 +1,11 @@
+C:\Users\Jhonny\Documents\Programas\Entity\Entity\bin\Debug\Entity.exe.config
+C:\Users\Jhonny\Documents\Programas\Entity\Entity\bin\Debug\Entity.exe
+C:\Users\Jhonny\Documents\Programas\Entity\Entity\bin\Debug\Entity.pdb
+C:\Users\Jhonny\Documents\Programas\Entity\Entity\bin\Debug\EntityFramework.dll
+C:\Users\Jhonny\Documents\Programas\Entity\Entity\bin\Debug\EntityFramework.xml
+C:\Users\Jhonny\Documents\Programas\Entity\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\Jhonny\Documents\Programas\Entity\Entity\obj\Debug\Entity.Properties.Resources.resources
+C:\Users\Jhonny\Documents\Programas\Entity\Entity\obj\Debug\Entity.csproj.GenerateResource.Cache
+C:\Users\Jhonny\Documents\Programas\Entity\Entity\obj\Debug\Entity.exe
+C:\Users\Jhonny\Documents\Programas\Entity\Entity\obj\Debug\Entity.pdb
+C:\Users\Jhonny\Documents\Programas\Entity\Entity\obj\Debug\Entity.View.frmUsuarioDetalle.resources
