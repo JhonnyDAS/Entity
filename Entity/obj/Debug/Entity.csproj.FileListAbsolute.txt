@@ -9,3 +9,4 @@ C:\Users\Jhonny\Documents\Programas\Entity\Entity\obj\Debug\Entity.csproj.Genera
 C:\Users\Jhonny\Documents\Programas\Entity\Entity\obj\Debug\Entity.exe
 C:\Users\Jhonny\Documents\Programas\Entity\Entity\obj\Debug\Entity.pdb
 C:\Users\Jhonny\Documents\Programas\Entity\Entity\obj\Debug\Entity.View.frmUsuarioDetalle.resources
+C:\Users\Jhonny\Documents\Programas\Entity\Entity\obj\Debug\Entity.View.frmUsuarioLista.resources

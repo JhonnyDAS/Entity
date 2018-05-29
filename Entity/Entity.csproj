@@ -52,12 +52,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controller\UsuarioController.cs" />
-    <Compile Include="Form1.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </Compile>
     <Compile Include="Model\modelClaseEntity.Context.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -84,6 +78,12 @@
     <Compile Include="View\frmUsuarioDetalle.Designer.cs">
       <DependentUpon>frmUsuarioDetalle.cs</DependentUpon>
     </Compile>
+    <Compile Include="View\frmUsuarioLista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmUsuarioLista.Designer.cs">
+      <DependentUpon>frmUsuarioLista.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -95,6 +95,9 @@
     </Compile>
     <EmbeddedResource Include="View\frmUsuarioDetalle.resx">
       <DependentUpon>frmUsuarioDetalle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmUsuarioLista.resx">
+      <DependentUpon>frmUsuarioLista.cs</DependentUpon>
     </EmbeddedResource>
     <EntityDeploy Include="Model\modelClaseEntity.edmx">
       <Generator>EntityModelCodeGenerator</Generator>

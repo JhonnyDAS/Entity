@@ -16,7 +16,7 @@ namespace Entity
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmUsuarioDetalle());
+            Application.Run(new frmUsuarioLista());
         }
     }
 }

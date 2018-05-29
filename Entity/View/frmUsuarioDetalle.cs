@@ -27,6 +27,7 @@ namespace Entity.View
         private void btnAceptar_Click(object sender, EventArgs e)
         {
             _objUsuario.Insertar((Usuario)usuarioBindingSource.Current);
+            this.Close();
         }
     }
 }
